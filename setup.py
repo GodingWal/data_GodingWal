@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     #license="MIT",
-    url="https://github.com/GodingWal/data_GodingW",
+    url="https://github.com/GodingWal/data_GodingWal",
     #keywords="",
     packages=find_packages() # ["Data_Tools"]
 )
