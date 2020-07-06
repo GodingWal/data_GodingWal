@@ -14,5 +14,5 @@ setup(
     #license="MIT",
     url="https://github.com/GodingWal/data_GodingWal",
     #keywords="",
-    packages=find_packages() # ["Data_Tools"]
+    packages=find_packages(), install_requires=['pandas'] # ["Data_Tools"]
 )
